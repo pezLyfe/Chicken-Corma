@@ -1,7 +1,6 @@
 # Unusual Volume Detector
 
-This scans every ticker on the market, gets their last 5 months of volume history, and alerts you when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days. (these numbers are all adjustable).  Helps find anomalies in the stock market
-
+Tasty spicy chicken with yogurt topping, perfect for a quick and light lunch
 
 ## How to run this:
 
