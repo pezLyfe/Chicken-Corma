@@ -1,4 +1,4 @@
-# Unusual Volume Detector
+# Chicken Corma
 
 Tasty spicy chicken with yogurt topping, perfect for a quick and light lunch
 
